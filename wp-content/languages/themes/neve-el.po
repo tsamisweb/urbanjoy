@@ -1,0 +1,938 @@
+# Translation of Themes - Neve in Greek
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-09 18:16:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "Neve"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "To Neve είναι ένα σούπερ γρήγορο, εύκολα προσαρμόσιμο, πολλαπλών χρήσεων θέμα εμφάνισης. Είναι ιδανικό για ιστολόγια, μικρές επιχειρήσεις, startups, πρακτορεία, εταιρείες, καταστήματα ηλεκτρονικού εμπορίου (βιτρίνα WooCommerce), καθώς και προσωπικούς ιστότοπους και για τα περισσότερα είδη ιστοτόπων. Είναι πλήρως συμβατό με AMP και με κινητές συσκευές. Το Neve εμφανίζεται σε κλάσματα δευτερόλεπτων καιπροσαρμόζεται τέλεια σε οποιαδήποτε συσκευή προβολής. Ενώ είναι ελαφρύ και έχει μινιμαλιστική διάταξη, είναι ιδιαίτερα επεκτάσιμο και έχει ιδιαίτερα βελτιστοποιημένο SEO κώδικα, με αποτέλεσμα κορυφαίες βαθμολογίες στα αποτελέσματα αναζήτησης της Google. Το Neve λειτουργεί άψογα με το Gutenberg και τους πιο δημοφιλείς page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Το Neve είναι συμβατό με WooCommerce, responsive, RTL & έτοιμο για μετάφραση. Μην το ψάχνετε άλλο. Το Neve είναι το τέλειο θέμα για σας!"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:244
+#: header-footer-grid/Core/Components/Search.php:80
+msgid "Height"
+msgstr "Ύψος"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:135
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:118
+msgid "Minimal"
+msgstr "Μινιμαλιστικό"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:117
+msgid "Canvas"
+msgstr "Καμβάς"
+
+#: inc/customizer/options/layout_blog.php:423
+msgid "Show Author Avatar"
+msgstr "Εμφάνιση avatar συγγραφέα"
+
+#: inc/views/partials/post_meta.php:188
+msgid "by"
+msgstr "από"
+
+#: dashboard/inc/Main.php:404 inc/customizer/options/upsells.php:92
+msgid "Blog Booster"
+msgstr "Blog Booster"
+
+#: dashboard/inc/Main.php:398 inc/customizer/options/upsells.php:94
+msgid "Custom Layouts"
+msgstr "Προσαρμοσμένες διατάξεις"
+
+#: dashboard/inc/Main.php:375
+msgid "Easily build your header and footer by dragging and dropping all the important elements in the real-time WordPress Customizer. More advanced options are available in PRO."
+msgstr "Δημιουργήστε εύκολα την κεφαλίδα και το υποσέλιδο σας σύροντας και ρίχνοντας όλα τα σημαντικά στοιχεία στο προσαρμογέα WordPress σε πραγματικό χρόνο. Πιο προηγμένες επιλογές είναι διαθέσιμες στο PRO."
+
+#: inc/customizer/options/upsells.php:101
+msgid "Easily create custom headers and footers as well as adding your own custom code or content in any of the hooks locations."
+msgstr "Δημιουργήστε εύκολα προσαρμοσμένες κεφαλίδες και υποσέλιδα και προσθέστε τον δικό σας προσαρμοσμένο κώδικα ή περιεχόμενο σε οποιoδήποτε από τα hooks θέσεων."
+
+#: dashboard/inc/Main.php:410 inc/customizer/options/upsells.php:97
+msgid "Elementor Booster"
+msgstr "Elementor Booster"
+
+#: dashboard/inc/Main.php:417
+msgid "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
+msgstr "Ενισχύστε το ηλεκτρονικό σας κατάστημα με φοβερά νέα χαρακτηριστικά, ειδικά σχεδιασμένα για ομαλή ολοκλήρωση με το WooCommerce ."
+
+#: dashboard/inc/Main.php:435
+msgid "For any developer or agency out there building websites for their own clients, we've made it easy to present the theme as your own."
+msgstr "Για οποιονδήποτε προγραμματιστή ή πρακτορείο εκεί έξω που δημιουργεί ιστότοπους για τους δικούς του πελάτες, έχουμε καταστήσει εύκολο το να παρουσιάσετε το θέμα ως δικό σας."
+
+#: dashboard/inc/Main.php:405
+msgid "Give a huge boost to your entire blogging experience with features specially designed for increased user experience."
+msgstr "Δώστε μια τεράστια ώθηση σε ολόκληρη την εμπειρία χρήστη στο ιστολογιό σας με χαρακτηριστικά ειδικά σχεδιασμένα για αυξημένη εμπειρία χρήστη."
+
+#: dashboard/inc/Main.php:386 inc/customizer/options/upsells.php:91
+msgid "Header Booster"
+msgstr "Header Booster"
+
+#: dashboard/inc/Main.php:374
+msgid "Header/Footer builder"
+msgstr "Builder κεφαλίδας/υποσέλιδου"
+
+#: dashboard/inc/Main.php:411 inc/customizer/options/upsells.php:102
+msgid "Leverage the true flexibility of Elementor with powerful addons and templates that you can import with just one click."
+msgstr "Αξιοποιήστε την πραγματική ευελιξία του Elementor με ισχυρά addons και πρότυπα που μπορείτε να εισαγάγετε με ένα μόνο κλικ."
+
+#: dashboard/inc/Main.php:381
+msgid "Neve is fully compatible with Gutenberg, the new WordPress editor and for all of you page builder fans, Neve has full compatibility with Elementor, Beaver Builder, and all the other popular page builders."
+msgstr "Το Neve είναι πλήρως συμβατό με το Gutenberg, τον νέο WordPress κειμενογράφο και για όλους εσάς τους οπαδούς των page builder, το Neve έχει πλήρη συμβατότητα με το Elementor, Beaver Builder και όλους τους άλλους δημοφιλείς page builders."
+
+#: inc/customizer/controls/upsell_control.php:96
+msgid "PRO"
+msgstr "PRO"
+
+#: dashboard/inc/Main.php:380
+msgid "Page Builder Compatibility"
+msgstr "Συμβατότητα Page Builder"
+
+#: dashboard/inc/Main.php:440
+msgid "Scroll To Top"
+msgstr "Κύλιση στην κορυφή"
+
+#: inc/customizer/options/upsells.php:96
+msgid "Scroll to Top module"
+msgstr "Μονάδα Κύλιση στην κορυφή"
+
+#: dashboard/inc/Main.php:405
+msgid "Sharing, custom article sorting, comments integrations, number of minutes needed to read an article and many more."
+msgstr "Κοινή χρήση, προσαρμοσμένη ταξινόμηση άρθρων, ενσωματώσεις σχολίων, αριθμός λεπτών που απαιτούνται για την ανάγνωση ενός άρθρου και πολλά άλλα."
+
+#: dashboard/inc/Main.php:441
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "Απλή αλλά αποτελεσματική μονάδα που σας βοηθάνα περιηγηθείτε πίσω στην κορυφή για πραγματικά μακροσκελείς σελίδες."
+
+#: inc/customizer/options/upsells.php:71
+msgid "View PRO Features"
+msgstr "Δείτε τα χαρακτηριστικά της PRO έκδοσης"
+
+#: dashboard/inc/Main.php:416 inc/customizer/options/upsells.php:93
+msgid "WooCommerce Booster"
+msgstr "WooCommerce Booster"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:448
+#: header-footer-grid/Core/Components/Search.php:284
+msgid "Background Color"
+msgstr "Χρώμα Φόντου"
+
+#: inc/customizer/options/buttons.php:154
+msgid "Border radius"
+msgstr "Ακτίνα πλαισίου"
+
+#: inc/customizer/options/buttons.php:43
+msgid "Buttons"
+msgstr "Κουμπιά"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:184
+#: header-footer-grid/Core/Components/CartIcon.php:142
+#: inc/customizer/options/form_fields.php:384
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Color"
+msgstr "Χρώμα"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:205
+#: header-footer-grid/Core/Components/CartIcon.php:168
+msgid "Hover Color"
+msgstr "Χρώμα κατάδειξης"
+
+#: inc/customizer/options/buttons.php:59
+#: inc/customizer/options/form_fields.php:596
+msgid "Primary"
+msgstr "Βασικό"
+
+#: inc/customizer/options/buttons.php:62
+#: inc/customizer/options/form_fields.php:597
+msgid "Secondary"
+msgstr "Δευτερεύων"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "Όλες"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:873
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Bottom"
+msgstr "Κάτω"
+
+#: inc/compatibility/lifter.php:314
+msgid "Catalog Sidebar"
+msgstr "Πλευρική στήλη καταλόγου"
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "Αποκλειστικά προϊόντα"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:465
+#: inc/customizer/options/layout_sidebar.php:129
+#: inc/admin/metabox/build/index.js:3656
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Left"
+msgstr "Aριστερά"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:558
+msgid "Margin"
+msgstr "Περιθώριο"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:533
+#: inc/customizer/options/buttons.php:135
+msgid "Padding"
+msgstr "Γέμισμα"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:473
+#: inc/customizer/options/layout_sidebar.php:133
+#: inc/admin/metabox/build/index.js:3663
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Right"
+msgstr "Δεξιά"
+
+#: header-footer-grid/Core/Components/SecondNav.php:142
+msgid "Select Menu"
+msgstr "Επιλογή Μενού"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1294
+msgid "Slide from Left"
+msgstr "Ολίσθηση από αριστερά"
+
+#: header-footer-grid/Core/Settings/Manager.php:185
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Style"
+msgstr "Στυλ"
+
+#: inc/customizer/options/layout_single_product.php:92
+msgid "Title"
+msgstr "Τίτλος"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:865
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Top"
+msgstr "Κορυφή"
+
+#: header-footer-grid/Core/Builder/Footer.php:125
+msgid "Footer Bottom"
+msgstr "Κάτω μέρος υποσέλιδου"
+
+#: header-footer-grid/Core/Builder/Footer.php:121
+msgid "Footer Top"
+msgstr "Πάνω τμήμα υποσέλιδου"
+
+#: header-footer-grid/Core/Builder/Header.php:180
+msgid "Header Bottom"
+msgstr "Κάτω τμήμα κεφαλίδας"
+
+#: header-footer-grid/Core/Builder/Header.php:176
+msgid "Header Main"
+msgstr "Κεντρική κεφαλίδα"
+
+#: header-footer-grid/Core/Builder/Header.php:172
+msgid "Header Top"
+msgstr "Κορυφή κεφαλίδας"
+
+#: header-footer-grid/templates/components/component-footer-sidebar.php:36
+msgid "Appearance &rarr; Customize &rarr; Footer &rarr;"
+msgstr "Εμφάνιση &rarr; Προσαρμογή &rarr; Υποσέλιδο &rarr;"
+
+#. translators: %s - customizer link
+#: header-footer-grid/templates/components/component-footer-sidebar.php:31
+msgid "Replace this widget content by going to %s and add widgets into this widget area."
+msgstr "Αντικαταστήστε το περιεχόμενο της μικροεφαρμογής πηγαίνοντας στο %s και προσθέστε μικροεφαρμογές σε αυτήν την περιοχή."
+
+#: header-footer-grid/Core/Components/Nav.php:135
+msgid "Active Item Color"
+msgstr "Χρώμα ενεργού στοιχείου"
+
+#: header-footer-grid/Core/Components/Button.php:77
+#: header-footer-grid/Core/Components/Button.php:115
+#: inc/customizer/options/form_fields.php:571
+msgid "Button"
+msgstr "Κουμπί"
+
+#: header-footer-grid/Core/Components/CartIcon.php:46
+msgid "Cart Icon"
+msgstr "Εικονίδιο καλαθιού"
+
+#: header-footer-grid/Core/Components/Copyright.php:36
+#: header-footer-grid/Core/Components/Copyright.php:70
+msgid "Copyright"
+msgstr "Copyright"
+
+#: header-footer-grid/Core/Components/Nav.php:114
+#: header-footer-grid/Core/Components/NavFooter.php:86
+#: header-footer-grid/Core/Components/SecondNav.php:86
+msgid "Items Color"
+msgstr "Χρώμα στοιχείων"
+
+#: header-footer-grid/Core/Components/Nav.php:156
+#: header-footer-grid/Core/Components/NavFooter.php:108
+#: header-footer-grid/Core/Components/SecondNav.php:109
+msgid "Items Hover Color"
+msgstr "Χρώμα κατάδειξης στοιχείων"
+
+#: header-footer-grid/Core/Components/Nav.php:203
+msgid "Last Menu Item"
+msgstr "Τελευταίο στοιχείο μενού"
+
+#: header-footer-grid/Core/Components/Button.php:101
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: header-footer-grid/Core/Components/Logo.php:72
+msgid "Logo & Site Identity"
+msgstr "Λογότυπο & ταυτότητα ιστοτόπου"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:77
+msgid "Menu Icon"
+msgstr "Εικονίδιο Μενού"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:98
+#: header-footer-grid/Core/Components/Search.php:66
+msgid "Placeholder"
+msgstr "Kείμενο κράτησης θέσης"
+
+#: header-footer-grid/Core/Components/Search.php:42
+msgid "Search Form"
+msgstr "Φόρμα αναζήτησης"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:48
+msgid "Search Icon"
+msgstr "Εικονίδιο αναζήτησης"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:97
+#: header-footer-grid/Core/Components/SearchResponsive.php:670
+#: header-footer-grid/Core/Components/SearchResponsive.php:674
+#: header-footer-grid/Core/Components/Search.php:65
+#: header-footer-grid/Core/Components/Search.php:456
+#: header-footer-grid/Core/Components/Search.php:460
+msgid "Search for..."
+msgstr "Αναζήτηση για..."
+
+#: header-footer-grid/templates/components/component-nav-secondary.php:23
+#: header-footer-grid/Core/Components/SecondNav.php:41
+#: header-footer-grid/Core/Components/SecondNav.php:136
+#: inc/core/front_end.php:74
+msgid "Secondary Menu"
+msgstr "Δευτερεύον μενού"
+
+#: header-footer-grid/Core/Components/Logo.php:132
+msgid "Show Site Tagline"
+msgstr "Εμφάνιση υπότιτλου ιστοτόπου"
+
+#: header-footer-grid/Core/Components/Logo.php:147
+msgid "Show Site Title"
+msgstr "Εμφάνιση τίτλου ιστότοπου"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:147
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/views/pluggable/pagination.php:194
+msgid "next"
+msgstr "επόμενο"
+
+#: inc/views/pluggable/pagination.php:189
+msgid "previous"
+msgstr "προηγούμενο"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "Πλοήγηση άρθρων"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:128 inc/admin/metabox/manager.php:145
+msgid "%s Settings"
+msgstr "Ρυθμίσεις  %s"
+
+#: inc/core/admin.php:244
+msgid "Return to your dashboard"
+msgstr "Επιστροφή στον Πίνακα Ελέγχου"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:230
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "Το  %s εγκαταστάθηκε και είναι έτοιμο για χρήση. Για να σας βοηθήσουμε στο ξεκινημά σας, συγκεντρώσαμε μερικούς χρήσιμους συνδέσμους."
+
+#: inc/core/admin.php:227
+msgid "Congratulations!"
+msgstr "Συγχαρητήρια!"
+
+#: inc/core/admin.php:250
+msgid "or go to the theme settings"
+msgstr "ή μεταβείτε στις ρυθμίσεις του θέματος"
+
+#: inc/core/admin.php:239
+msgid "Try one of our ready to use Starter Sites"
+msgstr "Δοκιμάστε έναν από τους έτοιμους προς χρήση Starter Sites"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:281
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Σχόλιο"
+msgstr[1] "%s Σχόλια"
+
+#: functions.php:38
+msgid "upgrading PHP to the latest version"
+msgstr "αναβαθμίζοντας την PHP στην πιο πρόσφατη έκδοση"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:136
+msgid "%1$s at %2$s"
+msgstr "%1$s στις %2$s"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Components/Copyright.php:64
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Με τη δύναμη του %2$s"
+
+#: inc/admin/plugin_install/main.php:108 inc/admin/plugin_install/main.php:128
+#: dashboard/build/dashboard.js:1
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: inc/admin/plugin_install/main.php:171
+msgid "Activating "
+msgstr "Γίνεται ενεργοποίηση "
+
+#: header-footer-grid/Core/Magic_Tags.php:543
+#: inc/customizer/options/layout_blog.php:390
+#: inc/views/partials/post_meta.php:143
+msgid "Author"
+msgstr "Συντάκτης"
+
+#: inc/customizer/options/typography.php:115
+msgid "Blog"
+msgstr "Ιστολόγιο"
+
+#: inc/customizer/options/layout_sidebar.php:163
+#: inc/customizer/options/layout_blog.php:80
+msgid "Blog / Archive"
+msgstr "Ιστολόγιο / Αρχείο"
+
+#: dashboard/inc/Main.php:333
+msgid "Blog Layouts"
+msgstr "Διατάξεις ιστολογίου"
+
+#: header-footer-grid/templates/components/component-cart-icon.php:50
+#: header-footer-grid/Core/Magic_Tags.php:598
+#: header-footer-grid/Core/Components/Nav.php:182 inc/views/header.php:165
+msgid "Cart"
+msgstr "Καλάθι"
+
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/customizer/options/layout_blog.php:391
+#: inc/views/partials/post_meta.php:144
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: header-footer-grid/templates/components/component-cart-icon.php:26
+#: header-footer-grid/Core/Customizer.php:290 inc/views/header.php:130
+#: inc/views/layouts/layout_sidebar.php:144
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: inc/customizer/options/colors_background.php:43
+msgid "Colors & Background"
+msgstr "Χρώματα & φόντο"
+
+#: inc/views/partials/comments.php:164
+msgid "Comment awaiting moderation."
+msgstr "Το σχόλιο είναι σε αναμονή για έγκριση."
+
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/customizer/options/layout_blog.php:393
+#: inc/views/partials/post_meta.php:146 inc/admin/metabox/build/index.js:3793
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: inc/views/partials/comments.php:81
+msgid "Comments Navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: inc/views/partials/comments.php:63
+msgid "Comments are closed."
+msgstr "Τα σχόλια δεν επιτρέπονται."
+
+#: inc/admin/metabox/main.php:70
+msgid "Components"
+msgstr "Συστατικά"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:310
+#: inc/admin/metabox/main.php:38
+#: inc/customizer/options/layout_container.php:133
+#: inc/admin/metabox/build/index.js:3685
+msgid "Contained"
+msgstr "Περιέχεται"
+
+#: inc/admin/metabox/main.php:41 inc/customizer/options/layout_container.php:43
+#: inc/admin/metabox/build/index.js:3670
+msgid "Container"
+msgstr "Πλαίσιο"
+
+#: inc/customizer/options/layout_single_post.php:69
+#: inc/admin/metabox/build/index.js:3791
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: dashboard/inc/Main.php:341 inc/customizer/options/layout_sidebar.php:43
+msgid "Content / Sidebar"
+msgstr "Περιεχόμενο / Πλευρική στήλη"
+
+#: inc/admin/metabox/main.php:128
+msgid "Content Width"
+msgstr "Πλάτος περιεχομένου"
+
+#: inc/customizer/options/layout_sidebar.php:334
+msgid "Content Width (%)"
+msgstr "Πλάτος περιεχομένου (%)"
+
+#: dashboard/inc/Main.php:321
+msgid "Customize Fonts"
+msgstr "Ορισμός γραμματοσειρών"
+
+#: inc/admin/metabox/main.php:37 inc/admin/metabox/main.php:51
+msgid "Customizer Setting"
+msgstr "Ρύθμιση προσαρμογής"
+
+#: inc/customizer/options/layout_blog.php:392
+#: inc/views/partials/post_meta.php:145
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: inc/admin/plugin_install/main.php:123 dashboard/build/dashboard.js:1
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:270
+#: inc/admin/metabox/build/index.js:3679
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Featured Image"
+msgstr "Απενεργοποίηση χαρακτηριστικής εικόνας"
+
+#: inc/admin/metabox/main.php:88 inc/admin/metabox/build/index.js:3832
+msgid "Disable Footer"
+msgstr "Απενεργοποίηση υποσέλιδου"
+
+#: inc/admin/metabox/main.php:71 inc/admin/metabox/build/index.js:3823
+msgid "Disable Header"
+msgstr "Απενεργοποίηση επικεφαλίδας"
+
+#: inc/admin/metabox/main.php:76 inc/admin/metabox/build/index.js:3841
+msgid "Disable Title"
+msgstr "Απενεργοποίηση τίτλου"
+
+#: inc/core/admin.php:269 dashboard/build/dashboard.js:1
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: inc/views/partials/comments.php:114 inc/views/partials/comments.php:145
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Edit"
+msgstr "Αλλαγή"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "Σειρά στοιχείων"
+
+#: inc/customizer/options/layout_blog.php:232
+msgid "Enable Masonry"
+msgstr "Ενεργοποίηση Masonry"
+
+#: inc/customizer/options/layout_blog.php:291
+msgid "Excerpt"
+msgstr "Απόσπασμα"
+
+#: inc/customizer/options/layout_blog.php:319
+msgid "Excerpt Length"
+msgstr "Μήκος αποσπάσματος"
+
+#: inc/compatibility/woocommerce.php:342
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:284
+#: header-footer-grid/Core/Components/Search.php:120
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Font Size"
+msgstr "Μέγεθος γραμματοσειράς"
+
+#: header-footer-grid/Core/Builder/Footer.php:34
+#: header-footer-grid/Core/Builder/Footer.php:75
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+#: inc/core/front_end.php:509
+msgid "Footer Four"
+msgstr "Τέταρτο Υποσέλιδο"
+
+#: header-footer-grid/templates/components/component-nav-footer.php:23
+#: header-footer-grid/Core/Components/NavFooter.php:41
+#: header-footer-grid/Core/Components/NavFooter.php:138
+#: inc/core/front_end.php:73
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+#: inc/core/front_end.php:506
+msgid "Footer One"
+msgstr "1ο υποσέλιδο"
+
+#: dashboard/inc/Main.php:337
+msgid "Footer Options"
+msgstr "Επιλογές υποσέλιδου"
+
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+#: inc/core/front_end.php:508
+msgid "Footer Three"
+msgstr "3ο υποσέλιδο"
+
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+#: inc/core/front_end.php:507
+msgid "Footer Two"
+msgstr "2ο υποσέλιδο"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:309
+#: inc/admin/metabox/main.php:39 inc/customizer/options/layout_sidebar.php:125
+#: inc/customizer/options/layout_container.php:134
+#: inc/admin/metabox/build/index.js:3691
+msgid "Full Width"
+msgstr "Πλήρες πλάτος"
+
+#: header-footer-grid/Core/Settings/Manager.php:177
+#: inc/customizer/options/typography.php:107
+msgid "General"
+msgstr "Γενικά"
+
+#: inc/views/content_none.php:39
+msgid "Get started here"
+msgstr "Ξεκινήστε από εδώ"
+
+#: header-footer-grid/Core/Builder/Header.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:491
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+#: dashboard/inc/Main.php:329
+msgid "Header Options"
+msgstr "Επιλογές Κεφαλίδας"
+
+#: inc/customizer/options/typography.php:111
+msgid "Headings"
+msgstr "Κεφαλίδες"
+
+#: inc/customizer/options/layout_blog.php:276
+msgid "Infinite Scroll"
+msgstr "Άπειρη κύλιση"
+
+#: inc/admin/plugin_install/main.php:104
+msgid "Install and activate"
+msgstr "Εγκατάσταση και ενεργοποίηση"
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: inc/admin/plugin_install/main.php:128
+msgid "Jetpack Portfolio"
+msgstr "Jetpack Portfolio"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:303
+#: header-footer-grid/Core/Settings/Manager.php:181
+#: inc/customizer/options/main.php:53
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: dashboard/inc/Main.php:325
+msgid "Layout Options"
+msgstr "Επιλογές διάταξης"
+
+#: inc/admin/metabox/main.php:52
+msgid "Left Sidebar"
+msgstr "Αριστερή πλευρική στήλη"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:28
+#: header-footer-grid/templates/components/component-menu-icon.php:26
+msgid "Navigation Menu"
+msgstr "Μενού πλοήγησης"
+
+#: inc/views/partials/comments.php:89
+msgid "Next"
+msgstr "Επόμενο"
+
+#: inc/admin/metabox/main.php:54
+msgid "No Sidebar"
+msgstr "Χωρίς πλευρική στήλη"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/admin/metabox/build/index.js:3649
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "None"
+msgstr "Κανένα"
+
+#: inc/customizer/options/layout_blog.php:275
+msgid "Number"
+msgstr "Αριθμός"
+
+#: inc/customizer/options/layout_sidebar.php:176
+msgid "Others"
+msgstr "Άλλα"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "Page Builder πλήρους πλάτους (Neve)"
+
+#: inc/views/partials/comments.php:112
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/customizer/options/layout_blog.php:270
+msgid "Post Pagination"
+msgstr "Σελιδοποίηση άρθρου"
+
+#: inc/views/partials/comments.php:86
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: header-footer-grid/templates/components/component-nav.php:26
+#: header-footer-grid/Core/Components/Nav.php:43
+#: header-footer-grid/Core/Components/Nav.php:221 inc/core/front_end.php:72
+msgid "Primary Menu"
+msgstr "Κύριο μενού"
+
+#: inc/views/template_parts.php:264
+msgid "Read More"
+msgstr "Περισσότερα"
+
+#: header-footer-grid/Core/Builder/Header.php:52
+#: header-footer-grid/Core/Builder/Footer.php:48 inc/core/admin.php:274
+msgid "Read full documentation"
+msgstr "Διαβάστε την πλήρη τεκμηρίωση"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:34
+msgid "Ready to publish your first post? %s."
+msgstr "Έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; %s."
+
+#: inc/views/partials/comments.php:151
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: inc/admin/metabox/main.php:53
+msgid "Right Sidebar"
+msgstr "Δεξιά πλευρική στήλη"
+
+#: header-footer-grid/Core/Components/Nav.php:177
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#. translators: search result
+#: inc/views/page_header.php:78
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα για %s"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:574
+msgid "Section Content"
+msgstr "Περιεχόμενο ενότητας"
+
+#: dashboard/inc/Main.php:317
+msgid "Set Colors"
+msgstr "Ορισμός χρωμάτων"
+
+#: inc/customizer/options/layout_sidebar.php:171
+msgid "Shop / Archive"
+msgstr "Κατάστημα/Αρχείο"
+
+#: inc/core/front_end.php:500
+msgid "Shop Sidebar"
+msgstr "Πλευρική στήλη Καταστήματος"
+
+#: inc/admin/metabox/main.php:56 inc/core/front_end.php:499
+#: inc/admin/metabox/build/index.js:3633
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: inc/customizer/options/layout_sidebar.php:235
+msgid "Sidebar Layout"
+msgstr "Διάταξη Πλευρικής στήλης"
+
+#: inc/customizer/options/layout_sidebar.php:164
+#: inc/customizer/options/layout_single_post.php:42
+#: inc/customizer/options/typography.php:339
+msgid "Single Post"
+msgstr "Μονό άρθρο"
+
+#: inc/customizer/options/layout_sidebar.php:172
+#: inc/customizer/options/layout_single_product.php:52
+msgid "Single Product"
+msgstr "Μοναδικό προϊόν"
+
+#: header.php:80
+msgid "Skip to content"
+msgstr "Μεταπηδήστε στο περιεχόμενο"
+
+#: inc/views/content_none.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, αλλά τίποτα δε βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλούμε προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:295 inc/admin/metabox/build/index.js:3792
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: header-footer-grid/Core/Components/Button.php:116
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text"
+msgstr "Κείμενο"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:385
+#: header-footer-grid/Core/Components/Logo.php:205
+#: header-footer-grid/Core/Components/Copyright.php:84
+#: header-footer-grid/Core/Components/CustomHtml.php:163
+#: inc/compatibility/elementor.php:116
+#: inc/customizer/options/layout_blog.php:183 inc/core/front_end.php:115
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: inc/customizer/options/layout_single_post.php:68
+#: inc/customizer/options/layout_blog.php:289
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:38
+#: header-footer-grid/templates/components/component-menu-icon.php:39
+msgid "Toggle Navigation"
+msgstr "Εναλλαγή πλοήγησης"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:784
+#: inc/customizer/options/main.php:57
+msgid "Typography"
+msgstr "Τυπογραφία"
+
+#: dashboard/inc/Main.php:313
+msgid "Upload Logo"
+msgstr "Φόρτωση Λογότυπου"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:185
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s σκέψη για το &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις στο &ldquo;%2$s&rdquo;"
+
+#: inc/customizer/options/layout_container.php:90
+msgid "Default Container Style"
+msgstr "Προκαθορισμένο στυλ πλαισίου"
+
+#: inc/customizer/options/layout_single_post.php:67
+#: inc/customizer/options/layout_blog.php:290
+msgid "Title & Meta"
+msgstr "Τίτλος & Meta"
+
+#: inc/customizer/options/layout_blog.php:302
+msgid "Post Content Order"
+msgstr "Σειρά περιεχομένου άρθρου"
+
+#: inc/customizer/options/layout_container.php:94
+msgid "Blog / Archive Container Style"
+msgstr "Στυλ πλαισίου ιστολογίου/αρχείου"
+
+#: inc/customizer/options/layout_sidebar.php:104
+msgid "Enable Advanced Options"
+msgstr "Ενεργοποίηση επιλογών για προχωρημένους"
+
+#: inc/admin/metabox/main.php:129
+msgid "Enable Individual Content Width"
+msgstr "Ενεργοποίηση μεμονωμένου πλάτους περιεχομένου"
+
+#: inc/customizer/options/layout_blog.php:405
+msgid "Meta Order"
+msgstr "Meta Order"
+
+#: inc/customizer/options/layout_container.php:108
+msgid "Shop / Archive Container Style"
+msgstr "Στυλ πλαισίου καταστήματος/αρχείου"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Single Post Container Style"
+msgstr "Στυλ πλαισίου μεμονωμένου άρθρου"
+
+#: inc/customizer/options/layout_container.php:112
+msgid "Single Product Container Style"
+msgstr "Στυλ πλαισίου μεμονωμένου προϊόντος"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "Πλάτος περιεχομένου για όλο τον ιστότοπο (%)"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "Διάταξη πλευρικής στήλης για όλο τον ιστότοπο"
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:207
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "Με το %s μπορείτε να επιλέξετε από πολλά μοναδικά demos, ειδικά σχεδιασμένα για εσάς, που μπορούν να εγκατασταθούν με ένα μόνο κλικ. Αρκεί να επιλέξετε το αγαπημένο σας, και εμείς θα φροντίσουμε για όλα τα άλλα."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:215 inc/core/admin.php:271
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Χρειάζεστε περισσότερες λεπτομέρειες; Δείτε στην πλήρη τεκμηρίωση αναλυτικές πληροφορίες σχετικά με την χρήση του %s."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:213
+msgid "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+msgstr "Θέλουμε να σας προσφέρουν την καλύτερη εμπειρία χρήσης με το %1$s, και γι' αυτό συγκεντρώσαμε εδώ όλες τις πληροφορίες που θα χρειαστείτε. Ελπίζουμε να απολαύσετε την χρήση του %1$s  όσο και εμείς απολαμβάνουμε να δημιουργούμε καταπληκτικά προϊόντα."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:205 inc/core/admin.php:263
+msgid "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+msgstr "Το %s περιέχει πλέον μια βιβλιοθήκη ιστοτόπων με διάφορα στυλ για να διαλέξετε αυτό που σας ταιριάζει Επισκεφθείτε τη συνεχώς αυξανόμενη συλλογή μας με demo ιστότοπους."
+
+#: inc/core/admin.php:261
+msgid "Sites Library"
+msgstr "Βιβλιοθήκη Ιστοτόπων"
+
+#: inc/customizer/options/upsells.php:44 inc/customizer/options/upsells.php:105
+msgid "Get the PRO version!"
+msgstr "Αποκτήστε την PRO έκδοση!"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:34
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Neve's minimal requirement is PHP%2$s."
+msgstr "Γεια, παρατηρήσαμε ότι τρέχετε μια ξεπερασμένη έκδοση της PHP η οποία δεν υποστηρίζεται πλέον. Εξασφαλίστε ότι ο ιστότοπός σας είναι γρήγορος και ασφαλής, με %1$s, αναβαθμίζοντας την PHP. To Neve απαιτεί τουλάχιστον PHP %2$s."
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"
